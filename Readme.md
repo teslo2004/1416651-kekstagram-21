@@ -1,7 +1,5 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
-* Студент: [Руслан Романенко](https://up.htmlacademy.ru/javascript/21/user/1416651).
-* Наставник: `Неизвестно`.
 
 ---
 
